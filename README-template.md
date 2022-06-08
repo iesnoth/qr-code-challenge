@@ -37,8 +37,13 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+I started with the html file, adding the font source into the header, dividing the body content into manageable packages, and adding the image above the body text.
+
+Then I methodically went down the line in css, starting with the body (background), then image, header1, and paragraph. I could probably be more organized, though, as I was bouncing around a lot. I should do more pesudocoding.
 
 ### Built with
+
+VSCode
 
 - Semantic HTML5 markup
 - CSS custom properties
