@@ -1,26 +1,38 @@
 
 body{
-    font-family:'Outfit', sans-serif;
+    
     background: hsl(212, 45%, 89%);
 }
 
 #main{
     background-color: white;
     text-align: center;
+    width:310px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: relative;
+    top: 50%;
+    margin: 15% auto;
+    border-radius: 25px;
 }
 
 img{
-    width:300px;
-    border-radius: 25%;
+    width:275px;
+    border-radius: 15px;
 }
 
-h1{
-    font-size: 20px;
+p{
+    margin:15px;
+}
+
+#line1{
+    font-size: 21px;
     font-weight: 700;
     color:hsl(218, 44%, 22%)
 }
 
-p{
+#line2{
+    margin: 15px 32px;
     font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
